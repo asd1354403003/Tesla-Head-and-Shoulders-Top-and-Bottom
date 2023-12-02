@@ -1,0 +1,5 @@
+﻿  tesla.cpp
+D:\1_COde\C++\library\fast-cpp-csv-parser-master\csv.h(143,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\1_COde\C++\library\fast-cpp-csv-parser-master\csv.h(157,21): warning C4244: 'return': conversion from 'std::streamsize' to 'int', possible loss of data
+D:\1_COde\C++\library\fast-cpp-csv-parser-master\csv.h(174,28): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Stock.vcxproj -> C:\Users\13544\OneDrive\桌面\Stock\x64\Debug\Stock.exe
